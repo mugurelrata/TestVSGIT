@@ -10,6 +10,7 @@ namespace ConsoleApp1TestGitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("line 0-0");
             Console.WriteLine("line 1-322");
             Console.WriteLine("line 1-321");
             Console.WriteLine("line 2-32");
@@ -26,6 +27,7 @@ namespace ConsoleApp1TestGitHub
             Console.WriteLine("line 10-01");
             Console.WriteLine("line 10-11");
             Console.WriteLine("line 11-11");
+            Console.WriteLine("line 12-11");
         }
     }
 }
