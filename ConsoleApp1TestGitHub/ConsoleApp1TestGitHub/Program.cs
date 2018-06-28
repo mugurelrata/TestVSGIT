@@ -10,14 +10,14 @@ namespace ConsoleApp1TestGitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("line 1-3");
-            Console.WriteLine("line 2-3");
-            Console.WriteLine("line 3-1");
-            Console.WriteLine("line 4-1");
-            Console.WriteLine("line 5-1");
-            Console.WriteLine("line 6-1");
-            Console.WriteLine("line 7-1");
-            Console.WriteLine("line 8-1");
+            Console.WriteLine("line 1-31");
+            Console.WriteLine("line 2-31");
+            Console.WriteLine("line 3-11");
+            Console.WriteLine("line 4-11");
+            Console.WriteLine("line 5-11");
+            Console.WriteLine("line 6-11");
+            Console.WriteLine("line 7-11");
+            Console.WriteLine("line 8-11");
         }
     }
 }
