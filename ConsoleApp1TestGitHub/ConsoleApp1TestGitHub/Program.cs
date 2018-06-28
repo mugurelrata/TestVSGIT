@@ -10,8 +10,8 @@ namespace ConsoleApp1TestGitHub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("line 1-1");
-            Console.WriteLine("line 2-1");
+            Console.WriteLine("line 1-3");
+            Console.WriteLine("line 2-3");
             Console.WriteLine("line 3-1");
             Console.WriteLine("line 4-1");
             Console.WriteLine("line 5-1");
